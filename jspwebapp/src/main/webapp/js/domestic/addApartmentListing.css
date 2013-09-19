@@ -1,0 +1,12 @@
+#container
+{
+	margin: 0 auto;
+	width: 600px;
+	background:#F2F5F2;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+

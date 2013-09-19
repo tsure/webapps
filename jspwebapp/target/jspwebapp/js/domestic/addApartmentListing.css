@@ -1,0 +1,10 @@
+div#addListingContent{
+   width:100%;
+   border:1px solid #000
+}
+
+form#addListing{
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
